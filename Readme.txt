@@ -1,4 +1,4 @@
-#Pattern Recognition Code Base
+ #Pattern Recognition Code Base
 
 The common dataset for all machine learning models used here are train_sp2017_v19.csv and result_train.csv for training and test_sp2017_v19.csv for testing.
 
