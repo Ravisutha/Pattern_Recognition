@@ -1,4 +1,3 @@
-Pledge:
 Content of this folder
 1. Results
 	a. bayesian  					: Result for bayesian classifier
